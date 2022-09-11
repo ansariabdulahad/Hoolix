@@ -1,1 +1,3 @@
 # Hoolix
+
+Fully responsive website.
